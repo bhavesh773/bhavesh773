@@ -6,32 +6,34 @@
 
 ## About Me
 
-* Computer Science student with a strong interest in programming and technology
-* Skilled in Python and problem-solving
+* Computer Science student passionate about building real-world applications
+* Strong foundation in programming and problem-solving using Python
 * Exploring Machine Learning, Data Science, and Software Development
-* Focused on building real-world projects and strengthening core concepts
+* Focused on practical learning and continuously improving technical skills
 
 
-##  Skills
+## Skills
 
 * **Languages:** Python, C, Java (basic)
-* **Core Concepts:** Data Structures and Algorithms (learning), OOP
+* **Core Concepts:** Data Structures & Algorithms (learning), OOP
 * **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
 * **Tools:** Git, GitHub, VS Code
 
 
 ## Featured Projects
 
-###  Machine Learning Project
+### House Price Prediction
 
-* Built a predictive model using Python
-* Used Pandas and Scikit-learn
+* Predicts house prices using Machine Learning techniques
+* Tech: Python, Pandas, Scikit-learn
+* Built using a real dataset and data preprocessing
 
 
-### Programming Projects
+### Spam Email Classifier
 
-* Developed basic applications using Python
-* Practiced problem-solving and logic building
+* Classifies emails as spam or not using NLP techniques
+* Tech: Python, Machine Learning
+* Implemented text processing and classification
 
 
 ## GitHub Stats
