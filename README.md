@@ -27,7 +27,7 @@
 
 * Predicts house prices using Machine Learning techniques
 * Tech: Python, Pandas, Scikit-learn
-* Trained on real dataset with data preprocessing and model evaluation
+* Trained on real dataset with preprocessing and achieved good prediction accuracy
 
 
 ### Spam Email Classifier
@@ -37,13 +37,13 @@
 * Implemented text processing and classification
 
 
-## GitHub Stats
+## GitHub Stats 
 
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh773\&show_icons=true)
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh773&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh773\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh773&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhavesh773)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhavesh773&theme=tokyonight)
 
 
 ## Contact Me
