@@ -10,6 +10,7 @@
 * Strong foundation in programming and problem-solving using Python
 * Exploring Machine Learning, Data Science, and Software Development
 * Focused on practical learning and continuously improving technical skills
+* Actively working on improving DSA and building practical projects
 
 
 ## Skills
@@ -26,7 +27,7 @@
 
 * Predicts house prices using Machine Learning techniques
 * Tech: Python, Pandas, Scikit-learn
-* Built using a real dataset and data preprocessing
+* Trained on real dataset with data preprocessing and model evaluation
 
 
 ### Spam Email Classifier
